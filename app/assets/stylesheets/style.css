@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    padding: 50px 0 50px 0;
+    margin : 0 25% 0 25%;
+    background: linear-gradient(to bottom, gray, black);
+    background: linear-gradient(to top, gray, black);
+    background: linear-gradient(to right, gray, black);
+    background: linear-gradient(to left, gray, black);
+    background: linear-gradient(45deg, gray, black);
+
+}
+
+
+.header {
+    color: white;
+    float: left;
+    margin-bottom: 0px;
+}
+
+.name {
+    color: white;
+    clear: both;
+    text-align: center;
+    
+}
+    
+
+.a {
+    margin: 4px 0 4px 0;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.b {
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+pre {
+    background-color: white;
+    border-radius: 5px;
+}
